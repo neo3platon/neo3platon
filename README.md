@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neo3platon
 - 👀 I’m interested in geophysics
-- 🌱 I’m currently learning U.R.S.I. Handbook of Ionogram Interpretaion and Reduction, 1972
+- 🌱 I’m currently learning U.R.S.I. Handbook of Ionogram Interpretation and Reduction, 1972
 - 💞️ I’m looking to collaborate on Ionogram Data Interpretation
 - 📫 How to reach me. Please send an email to neoneoneoplaton@gmail.com
 
